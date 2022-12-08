@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Latihan1</string>
+    <string name="first_name">Nama Depan</string>
+    <string name="last_name">Nama Belakang</string>
+    <string name="date">Tanggal Lahir</string>
+    <string name="submit">Submit</string>
+    <string name="result">Result :</string>
+    <string name="phone">No. telepon :</string>
+    <string name="chose">Pilih Disini</string>
+</resources>
